@@ -44,7 +44,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-     <img alt="stats" src="https://vercel.live/link/github-readme-streak-stats-bsxi-asatyrevs-projects.vercel.app?via=project-dashboard-alias-list&p=1"/>
+     [![GitHub Streak](https://github-readme-streak-stats-bsxi.vercel.app?user=asatyrev&theme=dark)](https://git.io/streak-stats)
 </div>
 
 <br/><br/>
