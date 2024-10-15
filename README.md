@@ -40,13 +40,3 @@
 </div>
 
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    [![GitHub Streak](https://github-readme-streak-stats-bsxi.vercel.app?user=asatyrev)](https://git.io/streak-stats)
-</div>
-
-<br/><br/>
-
-<hr/>
