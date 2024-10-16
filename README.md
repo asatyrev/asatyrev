@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Bold&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Artyom+Satyrev!;Full+Stack+Developer💻+&color=00eeff" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">About Me</h3>
 
-<br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Portfolio Website**
+ 🔭 Working on: **a Portfolio Website**
  
- 🌱 I’m currently learning **React, Three.js**
+ 🌱 Currently learning: **React, Three.js**
+ 
 
  </div>
  
